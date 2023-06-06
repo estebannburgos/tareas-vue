@@ -7,8 +7,43 @@ body {
   
   h1 {
     color: #333;
+    font-size: 24px;
+    font-weight: bold;
   }
   
   p {
     color: #666;
+  }
+
+  .fila-par {
+    background-color: #f2f2f2;
+  }
+
+  .fila-impar {
+    background-color: #ffffff;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  h4 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  h5 {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  h6 {
+    font-size: 12px;
+    font-weight: bold;
   }
